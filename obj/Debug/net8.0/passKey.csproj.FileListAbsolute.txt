@@ -1,0 +1,14 @@
+C:\Users\bayeg\Documents\passKey\bin\Debug\net8.0\passKey.exe
+C:\Users\bayeg\Documents\passKey\bin\Debug\net8.0\passKey.deps.json
+C:\Users\bayeg\Documents\passKey\bin\Debug\net8.0\passKey.runtimeconfig.json
+C:\Users\bayeg\Documents\passKey\bin\Debug\net8.0\passKey.dll
+C:\Users\bayeg\Documents\passKey\bin\Debug\net8.0\passKey.pdb
+C:\Users\bayeg\Documents\passKey\obj\Debug\net8.0\passKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayeg\Documents\passKey\obj\Debug\net8.0\passKey.AssemblyInfoInputs.cache
+C:\Users\bayeg\Documents\passKey\obj\Debug\net8.0\passKey.AssemblyInfo.cs
+C:\Users\bayeg\Documents\passKey\obj\Debug\net8.0\passKey.csproj.CoreCompileInputs.cache
+C:\Users\bayeg\Documents\passKey\obj\Debug\net8.0\passKey.dll
+C:\Users\bayeg\Documents\passKey\obj\Debug\net8.0\refint\passKey.dll
+C:\Users\bayeg\Documents\passKey\obj\Debug\net8.0\passKey.pdb
+C:\Users\bayeg\Documents\passKey\obj\Debug\net8.0\passKey.genruntimeconfig.cache
+C:\Users\bayeg\Documents\passKey\obj\Debug\net8.0\ref\passKey.dll
